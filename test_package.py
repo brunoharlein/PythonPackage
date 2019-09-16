@@ -1,7 +1,8 @@
 from repertoire.fichier import loops
 
-loops()  # Appel de la fonction table
+loops()  # Appel de la fonction
 
 
+#ou ...
 #import repertoire.fonctions
-#repertoire.fonctions.table(5)
+#repertoire.fonctions.loops()
